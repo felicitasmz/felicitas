@@ -1,0 +1,16 @@
+header { text-align: center; padding: 2px;  display:flex; 
+    flex-flow: wrap; justify-content: center; align-items: center;
+    ; background-size: 100%; background-position: center; background-color: #3f3e3e;}
+.logo { width: 150px;}
+nav { width: 80%; text-align: right; padding: 10px; box-sizing: border-box}
+nav a { border: 1px solid rgb(252, 251, 251); padding: 10px;
+     color: rgb(245, 243, 243); text-decoration: none; background-color: #020202; }
+nav a:hover {background-color: #C24018; color: rgb(0, 0, 0); 
+    padding: 10px 10px 20px 10px ; transition: all 2ms;}
+.cajacontenedora {display: flex;}
+.cajacontenedora div {width: 27%; margin: 1%; background-color: rgb(255, 255, 255);}
+.sushi { width: 250px;}
+.sushi2 { width: 250px; }
+.sushi3 { width: 250px;}
+.sushi4 { width: 250px;}
+footer { background-color: #3f3e3e; color: #ffffff; padding: 10px}
